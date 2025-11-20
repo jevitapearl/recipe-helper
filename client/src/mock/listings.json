@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Cozy Apartment in Downtown",
+    "description": "A beautiful apartment with modern amenities.",
+    "price": 150,
+    "image": "/images/apartment1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Spacious House with Garden",
+    "description": "Perfect for families, with a large garden.",
+    "price": 250,
+    "image": "/images/house1.jpg"
+  }
+]

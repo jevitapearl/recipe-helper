@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "sender": "John Doe",
+    "message": "Hello, is the apartment still available?",
+    "timestamp": "2023-10-01T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "sender": "Jane Smith",
+    "message": "Thanks for the booking confirmation.",
+    "timestamp": "2023-10-02T14:30:00Z"
+  }
+]
